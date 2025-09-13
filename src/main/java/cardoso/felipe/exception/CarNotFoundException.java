@@ -1,4 +1,4 @@
 package cardoso.felipe.exception;
 
-public class CarNotFound extends RuntimeException {
+public class CarNotFoundException extends RuntimeException {
 }
